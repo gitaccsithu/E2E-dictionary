@@ -1,0 +1,51 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.cstext
+{
+    width: 70%;
+    margin-top: 10px;
+    margin-left: 15px;
+    float: left;
+}
+.popupBody
+{
+    font-size: 16px;
+    background-color: #353535;
+    color: #54bafd;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+    width: 300px;
+    height: 60px;
+}
+.csbutton
+{
+    width: 40px;
+    height: 40px;
+    float: right;
+    background-color: #353535;
+    border-radius: 200px;
+    margin-right: 15px;
+    box-shadow: 2px 2px 3px #1D1E20, -2px -2px 3px #5f5f5f;
+}
+
+.cscontainer
+{
+    width: 100%;
+    margin: 20px 0;
+}
+
+.csinnerButton
+{
+    position: relative;
+    width: 20px;
+    height: 20px;
+    top: 8px;
+    margin: auto;
+    border-radius: 200px;
+    background-image: linear-gradient(to bottom right, #6ebff5 , #1388d6);
+    border: 2px solid #353535;
+    box-shadow: 2px 2px 3px #1D1E20, -2px -2px 3px #5f5f5f;
+}
